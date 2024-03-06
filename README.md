@@ -36,7 +36,7 @@ So i Started to Design my ESP32s3 based smartwatch which would use the HDSP-2000
 2. Solder the componenets onto the board (i recommend the [SAND TECHNIQUE](https://youtu.be/DYrucIWig24?si=pEKrY5gaIevp7irn&t=319))
 3. Test the PCB for connection errors or Shorts
 4. insert your favorite colored HDSP-2000 series display (or other [Compatible models]())
-5. Flash the Firmware
+5. Flash the Firmware [download here]().
 6. Download the App [from here]().
 7. SUCCESS! 🎉
 
