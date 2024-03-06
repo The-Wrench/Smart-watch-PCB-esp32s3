@@ -1,0 +1,1 @@
+i dont support closed source/ignorant corporations that charge by month for a software that should be a one time payment.
