@@ -10,6 +10,8 @@ This Project was made to show of my Electronic and IT skills.
 
 ###
 
+## What is this Project?
+
 ## The Story behind the Project
 
 The Story behind the Project is relatively simple. I was Scrolling through Pinterest and looking at some DIY Smartwatches.
